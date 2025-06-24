@@ -1,10 +1,15 @@
 package com.creatio.crm.language.basic;
 
 public class ClassesAndObjects1 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	
+	String empName="Lokeswara reddy";
+	int empID=12345;
+	String [] address = {"Mamillapalli" , "Bangalore"};
+	
+	public String newaddress() {
+		
+		return "Lokeswar";
+		
 	}
 
 }
