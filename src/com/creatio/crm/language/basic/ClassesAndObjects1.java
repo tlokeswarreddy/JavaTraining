@@ -8,7 +8,7 @@ public class ClassesAndObjects1 {
 	
 	public String newaddress() {
 		
-		return "Lokeswar";
+		return "Bangalore";
 		
 	}
 
