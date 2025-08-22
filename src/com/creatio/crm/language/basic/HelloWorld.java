@@ -6,7 +6,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Print the next line
+		//Print the nextin line
 		System.out.println("Hello World!");
 		System.out.println(234442222+999788990);
 		

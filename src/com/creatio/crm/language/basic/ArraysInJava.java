@@ -47,6 +47,8 @@ public class ArraysInJava {
 						{ "06n", "05n", "03n" } 
 						} 
 					};
+		
+		
 
 		System.out.println(names2[1][0][1] + "\n" + names2[0][0][2] + "\n" + names2[1][0][2] + "\n");
 		
