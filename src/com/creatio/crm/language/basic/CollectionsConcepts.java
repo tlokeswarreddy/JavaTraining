@@ -63,6 +63,7 @@ public class CollectionsConcepts {
 		empNames2.add("Lokeswara reddy");
 		empNames2.add("Roja");
 		empNames2.add("Aadvika");
+		empNames2.add("Aadvika");
 		
 		empNames2.add(null);
 		
@@ -162,7 +163,7 @@ Map<String,Integer> empNames8 = new Hashtable<String,Integer>();
 		empNames8.put("Roja",11);
 		empNames8.put("Aadvika",12);
 		
-		//empNames8.put(null,null);
+		empNames8.put("aaa",123);
 		//empNames8.put("Roja",null);
 		empNames8.put("Aadvika",13);
 		

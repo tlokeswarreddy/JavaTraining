@@ -11,6 +11,8 @@ public class AccessModifiers3 extends AccessModifiers1 {
 		//System.out.println(obj.name);
 		
 		System.out.println(obj.replacename("Roja"));
+		
+		System.out.println(System.getProperty("user.dir"));
 
 	}
 
